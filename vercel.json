@@ -1,0 +1,21 @@
+{
+  "framework": "nextjs",
+  "crons": [
+    {
+      "path": "/api/cron/sync-daily",
+      "schedule": "0 0 * * *"
+    },
+    {
+      "path": "/api/cron/buscar-nomes",
+      "schedule": "0 * * * *"
+    },
+    {
+      "path": "/api/cron/atualizar-historico-score",
+      "schedule": "0 */6 * * *"
+    },
+    {
+      "path": "/api/cron/disparar-sem-ftd",
+      "schedule": "0 17,1 * * *"
+    }
+  ]
+}
