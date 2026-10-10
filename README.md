@@ -2,6 +2,8 @@
 
 Painel **full-stack de gestão de jogadores VIP** de uma operação de iGaming. Lista e ranqueia os VIPs por **GGR, ticket, atividade e score**, mostra a evolução mensal de **depósitos e GGR**, e dá ao time de retenção as ações operacionais: ativar **cashback / bônus / experiência**, registrar **saque** e **contato**, e abrir conversa no **WhatsApp** (via Digisac / Chatwoot / Evolution).
 
+**[▶ Ver demo ao vivo](https://igaming-vip-crm.vercel.app)** · modo demo, dados fictícios, sem login
+
 ![Ranking de jogadores VIP com scores de GGR, ticket e atividade](docs/screenshot.png)
 
 > ⚠️ **Projeto de portfólio.** Versão sanitizada de uma ferramenta que roda em produção; o histórico de commits foi reiniciado na sanitização. **Nenhum dado real de jogador** — nomes e números são fictícios e gerados. Scripts operacionais, listas de contatos (PII) e segredos foram removidos.
